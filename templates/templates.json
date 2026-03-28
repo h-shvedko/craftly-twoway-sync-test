@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "blog",
+    "name": "Blog & Content",
+    "tagline": "Modern publishing platform",
+    "description": "A modern blog platform with posts, categories, and comments",
+    "industry": "technology",
+    "icon": "file-text",
+    "preview_description": "Built for content creators and publishers. Features a post management system with categories, tags, comments, and full-text search. Clean, readable typography with responsive layouts.",
+    "features": ["Blog posts", "Categories", "Comments", "Search"],
+    "colors": {
+      "primary": "#2563EB",
+      "accent": "#7C3AED"
+    },
+    "pages": ["Home", "Blog", "Post Detail", "About", "Contact"],
+    "suggested_models": ["Post", "Category", "Comment", "Tag"],
+    "suggested_features": ["Full-text search", "RSS feed", "Markdown support", "Social sharing"]
+  },
+  {
+    "slug": "saas",
+    "name": "SaaS Dashboard",
+    "tagline": "Full-featured application starter",
+    "description": "A SaaS application with dashboard, user management, and billing",
+    "industry": "technology",
+    "icon": "layout-dashboard",
+    "preview_description": "Built for SaaS products and web applications. Features an admin dashboard with analytics widgets, user management, settings panels, and a marketing landing page. Professional, data-driven design.",
+    "features": ["Dashboard", "User profiles", "Analytics", "Settings"],
+    "colors": {
+      "primary": "#059669",
+      "accent": "#0EA5E9"
+    },
+    "pages": ["Landing", "Dashboard", "Users", "Settings", "Profile"],
+    "suggested_models": ["User", "Plan", "Subscription", "Activity"],
+    "suggested_features": ["Role-based access", "Activity log", "Data export", "Notifications"]
+  },
+  {
+    "slug": "portfolio",
+    "name": "Portfolio & Agency",
+    "tagline": "Creative showcase site",
+    "description": "A creative portfolio showcasing projects, services, and team",
+    "industry": "creative",
+    "icon": "palette",
+    "preview_description": "Built for agencies, freelancers, and creative professionals. Features a project gallery with filtering, services showcase, team profiles, and an inquiry contact form. Bold, visual-first design.",
+    "features": ["Project gallery", "Services", "Team", "Contact form"],
+    "colors": {
+      "primary": "#DC2626",
+      "accent": "#F59E0B"
+    },
+    "pages": ["Home", "Projects", "Project Detail", "Services", "Team", "Contact"],
+    "suggested_models": ["Project", "Service", "TeamMember", "Inquiry"],
+    "suggested_features": ["Image gallery", "Category filtering", "Testimonials", "Case studies"]
+  }
+]

@@ -1,0 +1,18 @@
+<?php
+
+declare(strict_types=1);
+
+namespace App\Http\Controllers;
+
+class ContactController extends Controller
+{
+    public function index(): \Illuminate\View\View
+    {
+        return view('pages.index');
+    }
+
+    public function store(): \Illuminate\View\View
+    {
+        return view('pages.store');
+    }
+}
